@@ -1,6 +1,4 @@
-# Integrated-Smart-Mobility-and-Building-Management-System-
 # 🏢 ISMBMS – Integrated Smart Monitoring and Building Management System
-
 ## 📘 Project Overview:
 
 **ISMBMS (Integrated Smart Monitoring and Building Management System)** is a complete IoT-based solution designed for real-time monitoring and automation of building environments. It combines various sensors and actuators to create a smart infrastructure that enhances safety, energy efficiency, and intelligent control.
