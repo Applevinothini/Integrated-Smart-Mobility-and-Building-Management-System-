@@ -105,7 +105,7 @@ Upload to ESP32 or run on Wokwi.
 This project is licensed under the MIT License.
 
 👨‍💻 Author:
-Developed by [SUBHIKSHA S] – for smart infrastructure automation and IoT learning.
+Developed by [R Vinothini] – for smart infrastructure automation and IoT learning.
 
 🌐 Acknowledgments:
 Wokwi
